@@ -10,6 +10,4 @@ Simple UI with Flutter's reactive components
 Cross-platform web compatibility
 Built with VS Code using Flutter SDK, this project demonstrates Dart programming fundamentals and memory game mechanics.
 
-<img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/2f549539-6b32-4ffe-8a47-45409cd13a25" />
-
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ae2e1618-edd6-4051-a7b0-4438cfb2153f" />
