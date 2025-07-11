@@ -12,4 +12,4 @@ Built with VS Code using Flutter SDK, this project demonstrates Dart programming
 
 <img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/2f549539-6b32-4ffe-8a47-45409cd13a25" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b2b631f-cc3b-4c11-9975-b3f9820d064f" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ae2e1618-edd6-4051-a7b0-4438cfb2153f" />
