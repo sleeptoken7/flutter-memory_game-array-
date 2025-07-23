@@ -1,3 +1,13 @@
+# flutter-memory_game-array
+
+**Project Title:** Fruit Memory Game.
+
+**Description:**
+A hybrid mobile application developed using Dart and Flutter. It features smooth animations, a colorful UI, and score tracking to improve memory skills.
+
+**Technologies:**
+Dart, Flutter.
+
 Fruit Memory Game
 A web-based card-matching game built with Flutter and Dart. The game uses array-based logic to manage a 4×3 grid of cards, randomly shuffling fruit pairs at startup. Players flip two cards per turn, with the game tracking matches and attempts.
 
